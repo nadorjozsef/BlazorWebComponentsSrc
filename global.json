@@ -1,0 +1,20 @@
+{
+  "sdk": {
+    "version": "6.0.100-rtm.21477.15"
+  },
+  "tools": {
+    "dotnet": "6.0.100-rtm.21477.15",
+    "runtimes": {
+      "aspnetcore/x64": [
+        "3.1.14"
+      ],
+      "aspnetcore/x86": [
+        "3.1.14"
+      ]
+    }
+  },
+  "msbuild-sdks": {
+    "Yarn.MSBuild": "1.22.10",
+    "Microsoft.DotNet.Arcade.Sdk": "7.0.0-beta.21555.2"
+  }
+}
